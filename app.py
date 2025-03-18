@@ -53,3 +53,4 @@ if st.button("🗑 Clear All Tasks"):
 # Footer
 st.markdown("---")
 st.caption("✅ Stay organized & productive with this simple To-Do List App!")
+st.caption("📝 Developed by: Ambreen Adnan")
